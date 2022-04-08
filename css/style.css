@@ -1,0 +1,51 @@
+.card-body{
+    background-color: rgb(131, 88, 9);
+    color: white;
+    width: 40%;
+    height: 40%; 
+    font-size: 20px
+}
+
+.footer{
+    background-color: red;
+    color: white;
+    width: 100%;
+    height: 20%;
+    font-size: 20px
+}
+
+body{
+    background-color: #0525b3;
+    margin: 0;
+    padding: 0;
+
+}
+
+.text_sale{
+    background-color: #f50909;
+  
+}
+
+.title-product{
+    background-color: #f50909;
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.title{
+    color: white;
+    font-size: 90px;
+  
+}
+
+.logo{
+ width: 200px;
+  
+}
+
+.hero{
+ 
+    background-size: cover;
+    width: 100%;
+}
